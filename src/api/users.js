@@ -1,6 +1,6 @@
 
 
-const API_USERS = "w3learnback-production.up.railway.app/api/users";
+const API_USERS = "https://w3learnback-production.up.railway.app/api/users";
 
 
 export async function createUser(newUser) {
